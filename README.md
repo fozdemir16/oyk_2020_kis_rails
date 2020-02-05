@@ -1,1 +1,1 @@
-# oyk_2020_kis_rails
+# 2020 ÖYK Kış kampında Rails ile yapılan blog uygulaması
